@@ -7,3 +7,6 @@ Herkes Söylüyor işte yok acarı v14 çevirdim yok acarla beraber yapıyoruz y
 acarla v14 kodladık v13 ü de beraber yaptık diyen elemanlara inat bu botu sunuyoruz.
 
 Projedeki Dostlar `cartelfx` `ramalchavo.` `anora.` 
+
+
+# GÖRSELLER YAKINDA
