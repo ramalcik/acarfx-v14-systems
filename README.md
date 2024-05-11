@@ -1,6 +1,6 @@
 # acarfx-v14-systems
 
-merhaba öncelikle bu projeyi bayadır paylaşmayı düşünüyorduk artık düşünmeye son verip botun v14 halini 50 starda paylaşmaya karar verdik botlarda en az değişiklik yoktur bot nasıl alındıysa aynı şekilde sadece yeni yapayzeka komutları ve v14 olmasıdır, paylaşılması için sahibinden izin alınmıştır, botun v13 hali: ![Burada](https://github.com/acarfx/v13-all-bots) botu kuramayan yazmasın. web paneli ve apisi üzerinde paylaşılacaktır apiyi bağlayamayanda yazmasın, hadi iyi günler.
+merhaba öncelikle bu projeyi bayadır paylaşmayı düşünüyorduk artık düşünmeye son verip botun v14 halini 50 starda paylaşmaya karar verdik botlarda en az değişiklik yoktur bot nasıl alındıysa aynı şekilde sadece yeni yapayzeka komutları ve v14 olmasıdır, paylaşılması için sahibinden izin alınmıştır, botun v13 hali: [Burada](https://github.com/acarfx/v13-all-bots) botu kuramayan yazmasın. web paneli ve apisi üzerinde paylaşılacaktır apiyi bağlayamayanda yazmasın, hadi iyi günler.
 
 Projedeki Dostlar `cartelfx` `ramalchavo.` `anora.` 
 
