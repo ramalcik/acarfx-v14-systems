@@ -1,17 +1,13 @@
 # acarfx-v14-systems
 
-Acar v14ü 50 starda paylaşıcaz acar v13 den farkı bunun yeni komutlar olması 
-botun içerisinde yapayzeka sicil yapayzeka isimler ve yapayzeka kayıt var
-
-Herkes Söylüyor işte yok acarı v14 çevirdim yok acarla beraber yapıyoruz yok bilmem
-acarla v14 kodladık v13 ü de beraber yaptık diyen elemanlara inat bu botu sunuyoruz web + api dahil.
+merhaba öncelikle bu projeyi bayadır paylaşmayı düşünüyorduk artık düşünmeye son verip botun v14 halini 50 starda paylaşmaya karar verdik botlarda en az değişiklik yoktur bot nasıl alındıysa aynı şekilde sadece yeni yapayzeka komutları ve v14 olmasıdır, paylaşılması için sahibinden izin alınmıştır, botun v13 hali: ![Burada](https://github.com/acarfx/v13-all-bots) botu kuramayan yazmasın. web paneli ve apisi üzerinde paylaşılacaktır apiyi bağlayamayanda yazmasın, hadi iyi günler.
 
 Projedeki Dostlar `cartelfx` `ramalchavo.` `anora.` 
 
 
 # GÖRSELLER YAKINDA
 
-# Web Görselleri
+# WEB GÖRSELLERİ
 
 ![image](https://cdn.discordapp.com/attachments/1214735083261394955/1238376684147834900/image.png?ex=663f0fa9&is=663dbe29&hm=7920d235fae8620e7583e38dcaf6299c01f8fc82f5b4610830096fc649b9414e&)
 ![image](https://cdn.discordapp.com/attachments/1214735083261394955/1238376785633345568/image.png?ex=663f0fc1&is=663dbe41&hm=8ef5cbb6da850b7bc6e39153d1f035441972787abb44feb562f956131bb6c609&)
