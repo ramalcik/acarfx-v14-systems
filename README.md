@@ -1,11 +1,12 @@
-# acarfx-v14-systems
+# acarfx-v14-bots
 
-merhaba öncelikle bu projeyi bayadır paylaşmayı düşünüyorduk artık düşünmeye son verip botun v14 halini 50 starda paylaşmaya karar verdik botlarda en az değişiklik yoktur bot nasıl alındıysa aynı şekilde sadece v14 olmasıdır, paylaşılması için sahibinden izin alınmıştır, botun v13 hali: [Burada](https://github.com/acarfx/v13-all-bots) botu kuramayan yazmasın. web paneli ve apisi üzerinde paylaşılacaktır apiyi bağlayamayanda yazmasın, hadi iyi günler.
-
-Projedeki Dostlar `cartelfx` `ramalchavo.` `anora.` 
+merhaba arkadaşlar bu botlar paylaşılmıştır, bu botu bayadır v14 yapıp paylaşmayı düşünüyorduk, en sonunda botu v14 çevirip paylaşmaya karar verdik botun v13 hali **acarfx** aittir ve kendinisinden izin alarak paylaşıyoruz. Botun v13 hali [Burada](https://github.com/acarfx/v13-all-bots) bu botu v13 şeklinde kullanıp v14 yaptım diyenleri çok gördük bu botu kullanacağınıza veya içinden kod alacağınıza eminim, botta küçük hatalar illaki vardır hata gördüğünüzde discord: **cartelfx** yazın ha bide web sitenin apisini paylaştım scripti almak için discorda yazın.
 
 
-# GÖRSELLER YAKINDA
+Projedeki Dostlar `cartelfx` `ramalchavo.` `anora.`
+
+# WEB SİTE
+ discord üzerinden web sitenin scriptini almak dışında yazmayın yardım için yazıldığında tek 1 cevap dahi alamayacaksınız, kafası basan yapar.
 
 # WEB GÖRSELLERİ
 
