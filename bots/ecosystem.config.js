@@ -2,8 +2,8 @@ let _sys = require('./Global/Settings/_system.json');
 let botcuk = [
   {
     name: "Mainframe",
-    namespace: "panter",
-    script: 'main.panter',
+    namespace: "cartel",
+    script: 'cartel',
     watch: false,
     exec_mode: "cluster",
     max_memory_restart: "2G",
@@ -11,8 +11,8 @@ let botcuk = [
   },
   {
     name: "Controller",
-    namespace: "panter",
-    script: 'main.panter',
+    namespace: "cartel",
+    script: 'cartel',
     watch: false,
     exec_mode: "cluster",
     max_memory_restart: "2G",
@@ -20,8 +20,8 @@ let botcuk = [
   },
   {
     name: "Statistics",
-    namespace: "panter",
-    script: 'main.panter',
+    namespace: "cartel",
+    script: 'cartel',
     watch: false,
     exec_mode: "cluster",
     max_memory_restart: "2G",
@@ -29,8 +29,8 @@ let botcuk = [
   },
   {
     name: "Sync",
-    namespace: "panter",
-    script: 'main.panter',
+    namespace: "cartel",
+    script: 'cartel',
     watch: false,
     exec_mode: "cluster",
     max_memory_restart: "2G",
@@ -38,8 +38,8 @@ let botcuk = [
   },
   {
     name: "Security_I",
-    namespace: "panter",
-    script: 'main.panter',
+    namespace: "cartel",
+    script: 'cartel',
     watch: false,
     exec_mode: "cluster",
     max_memory_restart: "2G",
@@ -47,8 +47,8 @@ let botcuk = [
   },
   {
     name: "Security_II",
-    namespace: "panter",
-    script: 'main.panter',
+    namespace: "cartel",
+    script: 'cartel',
     watch: false,
     exec_mode: "cluster",
     max_memory_restart: "2G",
@@ -56,8 +56,8 @@ let botcuk = [
   },
   {
     name: "Distributors",
-    namespace: "panter",
-    script: 'main.panter',
+    namespace: "cartel",
+    script: 'cartel',
     watch: false,
     exec_mode: "cluster",
     max_memory_restart: "2G",
