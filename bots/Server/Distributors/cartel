@@ -1,0 +1,17 @@
+const { cartel } = require('../../Global/Clients/Distributors.Clients');
+const { Mongoose } = require('../../Global/Databases/Global.MongoDB.Driver');
+const client = global.client = new cartel();
+const { GUILD } = require('../../Global/Init/Settings');
+const { Collection } = require('discord.js');
+
+
+// Client Ayarları (Başlangıç)
+client.botName = "Distributors"
+
+// Client Ayarları (SON)
+
+Mongoose.Connect()
+GUILD.fetch(sistem.SERVER.ID)
+client.fetchCommands()
+client.fetchEvents()
+client.connect(sistem.TOKENS.SECURITY.MAIN)
