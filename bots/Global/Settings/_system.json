@@ -1,0 +1,53 @@
+﻿{
+  "SERVER": {
+    "ID": "1228436284809285633",
+    "Name": "deneme",
+    "Install": false
+  },
+  "PACKAGE": {
+    "Type": "FULL",
+    "Name": "Ruby VIP+",
+    "Desc": "Bu paket tüm özellikleri ve tüm sistemleri kapsamaktadır.",
+    "Status": true,
+    "Price": 1000,
+    "StartAt": 1664856195288,
+    "LastPayment": 1666581165742,
+    "Payments": [
+      {
+        "Id": 1,
+        "Price": 1000,
+        "Type": "FULL",
+        "Date": 1664856195288,
+        "Payment": "BAŞLANGIÇ"
+      }
+    ]
+  },
+  "TOKENS": {
+    "Statistics": "",
+    "Voucher": "",
+    "SYNC": "",
+    "CONTROLLER": "",
+    "SECURITY": {
+      "MAIN": "",
+      "SEC_ONE": "",
+      "SEC_TWO": "",
+      "DISTS": [
+        ""
+      ]
+    }
+  },
+  "botSettings": {
+    "Prefixs": [
+      "."
+    ]
+  },
+  "botStatus": {
+    "BOT_SES":"1228436285249552384",
+    "Status": "dnd",
+    "Name": "cartel"
+  },
+  "Database": {
+    "Active": true,
+    "MongoURL": "mongodb://127.0.0.1/cartel"
+  }
+}
