@@ -6,7 +6,7 @@ merhaba arkadaşlar bu botlar paylaşılmıştır, bu botu bayadır v14 yapıp p
 Projedeki Dostlar `cartelfx` `ramalchavo.` `anora.`
 
 # WEB SİTE
- discord üzerinden web sitenin scriptini almak dışında yazmayın yardım için yazıldığında tek 1 cevap dahi alamayacaksınız, kafası basan yapar.
+ discord üzerinden web sitenin scriptini almak dışında yazmayın yardım için yazıldığında tek 1 cevap dahi alamayacaksınız, kafası basan yapar, api tarafında v14BOTSS yazan kısımları botun klasör ismini girin apiyi v14 çevirmeye üşendiğim için böyle saçma birşey yaptım.
 
 # WEB GÖRSELLERİ
 
