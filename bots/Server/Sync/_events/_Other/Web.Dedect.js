@@ -35,16 +35,7 @@ const Discord = require("discord.js")
         .setLabel('Rolleri Geri Ver!')
         .setStyle(ButtonStyle.Secondary),
     )
-    
-    const Permissions = [
-        Discord.PermissionFlagsBits.Administrator,
-        Discord.PermissionFlagsBits.ManageRoles,
-        Discord.PermissionFlagsBits.ManageChannels,
-        Discord.PermissionFlagsBits.ManageGuild,
-        Discord.PermissionFlagsBits.ManageEmojisAndStickers,
-        Discord.PermissionFlagsBits.ManageWebhooks
-      ];
-    
+   
     let arr = []
     let CheckWeb = Dedection.find(x => x == "web");
     let memberSafeRoles = uye.roles.cache.filter((e) => e.editable && e.name !== "@everyone" && Permissions.some((a) => e.permissions.has(a)));
