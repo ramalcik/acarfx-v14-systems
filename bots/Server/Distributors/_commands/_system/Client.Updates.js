@@ -52,10 +52,6 @@ allTokens.forEach(async (token) => {
       botClient.on("ready", async () => {  
           BOTS.push(botClient)
           let guardSettings = await GUARDS_SETTINGS.findOne({guildID: sistem.SERVER.ID})
-          if(!callbacks.TOKENS.WELCOME.WELCOMES.includes(botClient.token)) {
-            if(guardSettings && guardSettings.BOTS && !guardSettings.BOTS.includes(botClient.user.id)) {
-                await GUARDS_SETTINGS.updateOne({guildID: sistem.SERVER.ID}, {$push: {"BOTS": botClient.user.id} }, {upsert: true})
-            }
           }  
       })
       await botClient.login(token).catch(err => {
