@@ -1,6 +1,6 @@
 # acarfx-v14-bots
 
-merhaba arkadaşlar bu botlar paylaşılmıştır, bu botu bayadır v14 yapıp paylaşmayı düşünüyorduk, en sonunda botu v14 çevirip paylaşmaya karar verdik botun v13 hali ```acarfx``` aittir ve kendisinden izin alarak paylaşıyoruz. Botun v13 hali [Burada](https://github.com/acarfx/v13-all-bots) bu botu v13 şeklinde kullanıp v14 yaptım diyenleri çok gördük isim vermicem sizin gibiler bu botu kullanacağınıza veya içinden kod alacağınıza eminim, ha bide site scriptini paylaşmadım discord: ```cartelfx``` yazın.
+merhaba arkadaşlar bu botlar paylaşılmıştır, bu botu bayadır v14 yapıp paylaşmayı düşünüyorduk, en sonunda botu v14 çevirip paylaşmaya karar verdik botun v13 hali ```acarfx``` aittir ve kendisinden izin alarak paylaşıyoruz. Botun v13 hali [Burada](https://github.com/acarfx/v13-all-bots) bu botu v13 şeklinde kullanıp v14 yaptım diyenleri çok gördük isim vermicem sizin gibiler anca hazır bot kullanıp üzerinden prim almaya çalışırsınız ama 1 gram bilginiz yok bu botu kullanacağınıza veya içinden kod alacağınıza eminim, ha bide site scriptini paylaşmadım discord: ```cartelfx``` yazın. acara selamlar :)
 
 # NOT 
 botu paylaştıktan sonra 2-3 hata çıktığı için botu yeniden gözden geçirip paylaşıcam.
@@ -11,7 +11,7 @@ botu paylaştıktan sonra 2-3 hata çıktığı için botu yeniden gözden geçi
 Projedeki Dostlar `cartelfx` `ramalchavo.` `anora.`
 
 # WEB SİTE
-discord üzerinden sitenin scriptini almak dışında web sitenin kurulumu için yanımda olan anora olsun ramal olsun bu kişilere yazıldığında tek bir cevap daha alamayacaksanız kafası basan yapar, ha bide api mevzusuna gelicem api v14 olmadığı için bazı kişiler açamamış yazıp darlamayın.
+discord üzerinden sitenin scriptini almak dışında web sitenin kurulumu için yanımda olan anora olsun ramal olsun bu kişilere yazıldığında tek bir cevap dahi alamayacaksınız kafası basan yapar çok basit bir rest api mantığı, ha bide api mevzusuna gelicem api v14 olmadığı için bazı kişiler açamamış yakın zamanda onu eskisi gibi botun içine geçirip paylaşıcam kuramayanda yazıp darlamasın amk günde 10 mesaj geliyor böyle.
 
 # WEB GÖRSELLERİ
 
