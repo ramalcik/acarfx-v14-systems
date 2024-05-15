@@ -1,6 +1,6 @@
 # acarfx-v14-bots
 
-merhaba arkadaşlar bu botlar paylaşılmıştır, bu botu bayadır v14 yapıp paylaşmayı düşünüyorduk, en sonunda botu v14 çevirip paylaşmaya karar verdik botun v13 hali ```acarfx``` aittir ve kendisinden izin alarak paylaşıyoruz. Botun v13 hali [Burada](https://github.com/acarfx/v13-all-bots) bu botu v13 şeklinde kullanıp v14 yaptım diyenleri çok gördük bu botu kullanacağınıza veya içinden kod alacağınıza eminim, botta küçük hatalar illaki vardır hata gördüğünüzde discord: ```cartelfx``` yazın ha bide web sitenin apisini paylaştım scripti almak için discorda yazın.
+merhaba arkadaşlar bu botlar paylaşılmıştır, bu botu bayadır v14 yapıp paylaşmayı düşünüyorduk, en sonunda botu v14 çevirip paylaşmaya karar verdik botun v13 hali ```acarfx``` aittir ve kendisinden izin alarak paylaşıyoruz. Botun v13 hali [Burada](https://github.com/acarfx/v13-all-bots) bu botu v13 şeklinde kullanıp v14 yaptım diyenleri çok gördük isim vermicem sizin gibiler bu botu kullanacağınıza veya içinden kod alacağınıza eminim, ha bide site scriptini paylaşmadım discord: ```cartelfx``` yazın.
 
 # NOT 
 botu paylaştıktan sonra 2-3 hata çıktığı için botu yeniden gözden geçirip paylaşıcam.
