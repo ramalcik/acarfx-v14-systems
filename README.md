@@ -2,12 +2,16 @@
 
 merhaba arkadaşlar bu botlar paylaşılmıştır, bu botu bayadır v14 yapıp paylaşmayı düşünüyorduk, en sonunda botu v14 çevirip paylaşmaya karar verdik botun v13 hali ```acarfx``` aittir ve kendisinden izin alarak paylaşıyoruz. Botun v13 hali [Burada](https://github.com/acarfx/v13-all-bots) bu botu v13 şeklinde kullanıp v14 yaptım diyenleri çok gördük bu botu kullanacağınıza veya içinden kod alacağınıza eminim, botta küçük hatalar illaki vardır hata gördüğünüzde discord: ```cartelfx``` yazın ha bide web sitenin apisini paylaştım scripti almak için discorda yazın.
 
+# NOT 
+botu paylaştıktan sonra 2-3 hata çıktığı için botu yeniden gözden geçirip paylaşıcam.
+
+# WEB GÖRSELLER
 ![image](https://i.hizliresim.com/cm32rny.jpg)
 
 Projedeki Dostlar `cartelfx` `ramalchavo.` `anora.`
 
 # WEB SİTE
- discord üzerinden web sitenin scriptini almak dışında yazmayın yardım için yazıldığında tek 1 cevap dahi alamayacaksınız, kafası basan yapar, api tarafında v14BOTSS yazan kısımları botun klasör ismini girin apiyi v14 çevirmeye üşendiğim için böyle saçma birşey yaptım.
+discord üzerinden sitenin scriptini almak dışında web sitenin kurulumu için yanımda olan anora olsun ramal olsun bu kişilere yazıldığında tek bir cevap daha alamayacaksanız kafası basan yapar, ha bide api mevzusuna gelicem api v14 olmadığı için bazı kişiler açamamış yazıp darlamayın.
 
 # WEB GÖRSELLERİ
 
