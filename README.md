@@ -5,7 +5,7 @@ merhaba arkadaşlar bu botlar paylaşılmıştır, bu botu bayadır v14 yapıp p
 # NOT 
 botu paylaştıktan sonra 2-3 hata çıktığı için botu yeniden gözden geçirip paylaşıcam.
 
-# WEB GÖRSELLER
+# :)
 ![image](https://i.hizliresim.com/cm32rny.jpg)
 
 Projedeki Dostlar `cartelfx` `ramalchavo.` `anora.`
